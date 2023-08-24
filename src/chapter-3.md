@@ -1,5 +1,3 @@
-Chapter 3: Implementing AI in Idea Generation and Brainstorming
-===============================================================
 
 Artificial Intelligence (AI) can be used for idea generation and brainstorming in creative writing. In this chapter, we will explore how AI can be used to generate ideas and overcome writer's block, as well as how predictive analytics and forecasting can be used for story development.
 

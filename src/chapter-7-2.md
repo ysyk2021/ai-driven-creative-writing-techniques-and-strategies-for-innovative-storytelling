@@ -1,5 +1,3 @@
-Unlocking New Opportunities with AI
-==============================================================================================================
 
 AI has already made significant contributions to creative writing and storytelling, and it is expected to continue to do so in the future. In this chapter, we will explore some of the new opportunities that AI can unlock for creative writing.
 

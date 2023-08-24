@@ -1,5 +1,3 @@
-Chapter 6: Managing Ethics and Bias in AI-Driven Creative Writing
-=================================================================
 
 As Artificial Intelligence (AI) becomes more prevalent in creative writing, it's important to consider the ethical implications and potential biases that may arise. In this chapter, we will explore the importance of ethical and unbiased writing practices in AI-driven creative writing and methods for mitigating risks and ensuring compliance.
 

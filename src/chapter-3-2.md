@@ -1,5 +1,3 @@
-Predictive Analytics and Forecasting for Story Development
-===========================================================================================================================
 
 Artificial Intelligence (AI) can be used to enhance idea generation and brainstorming in creative writing, specifically through predictive analytics and forecasting. In this chapter, we will explore the benefits of using AI for predictive analytics and forecasting in story development.
 

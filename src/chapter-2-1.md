@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-==============================================================================================================
 
 There are a variety of tools and technologies available for AI-driven creative writing. In this chapter, we will provide an overview of some of the most commonly used tools and technologies.
 

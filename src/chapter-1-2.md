@@ -1,5 +1,3 @@
-Benefits of Incorporating AI into Creative Writing Practices
-===================================================================================================================
 
 Artificial Intelligence (AI) has brought numerous benefits to various industries, including creative writing. In this chapter, we will explore the benefits of incorporating AI into creative writing practices.
 

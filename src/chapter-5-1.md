@@ -1,5 +1,3 @@
-AI-Driven Plot Outline and Structure Assistance
-============================================================================================================
 
 Artificial Intelligence (AI) can be used to assist in developing a strong plot outline and structure, improving the overall quality of a story. In this chapter, we will explore the benefits of AI-driven plot outline and structure assistance for creative writing.
 

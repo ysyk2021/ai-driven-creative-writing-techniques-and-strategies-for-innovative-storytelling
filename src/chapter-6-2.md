@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-===========================================================================================================
 
 As with any use of artificial intelligence (AI), there are ethical considerations and potential biases that must be addressed when using AI for creative writing. In this chapter, we will explore how to manage ethics and bias in AI-driven creative writing by mitigating risks and ensuring compliance.
 

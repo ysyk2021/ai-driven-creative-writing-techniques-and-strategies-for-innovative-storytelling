@@ -1,5 +1,3 @@
-Using AI for Generating Ideas and Overcoming Writer's Block
-============================================================================================================================
 
 In this chapter, we will explore how AI can be used in idea generation and brainstorming for creative writing. By leveraging AI-powered tools and technologies, writers can generate new ideas and overcome writer's block.
 

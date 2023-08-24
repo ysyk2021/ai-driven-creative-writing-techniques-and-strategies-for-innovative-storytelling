@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Creative Writing
-================================================================
 
 Artificial Intelligence (AI) has introduced a variety of tools and technologies to enhance creative writing. In this chapter, we will provide an overview of some of the most commonly used tools and technologies in AI-driven creative writing, followed by a discussion on how to select the right tools for your writing needs.
 

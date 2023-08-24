@@ -1,5 +1,3 @@
-AI-Assisted Editing and Revision
-=============================================================================================
 
 Artificial Intelligence (AI) can be used to assist in editing and revising a story, improving plot development and structure. In this chapter, we will explore the benefits of AI-assisted editing and revision for creative writing.
 

@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Character Development with AI
-==================================================
 
 One of the key elements of storytelling is creating compelling characters that readers can invest in. Fortunately, artificial intelligence (AI) can help writers enhance their character development process by providing insights into personality traits, motivations, and behaviors. In this chapter, we will explore two ways to use AI to enhance character development: AI-powered character profile creation and analysis, and automated dialogue generation using AI.
 

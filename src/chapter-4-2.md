@@ -1,5 +1,3 @@
-Automated Dialogue Generation using AI
-==========================================================================================
 
 Artificial Intelligence (AI) can be used to enhance character development in creative writing, specifically through automated dialogue generation. In this chapter, we will explore the benefits of using AI for automated dialogue generation and how it can improve character development.
 
