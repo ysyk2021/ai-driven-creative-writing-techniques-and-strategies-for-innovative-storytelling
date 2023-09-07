@@ -8,3 +8,7 @@ Throughout the book, we will provide examples of successful implementation of AI
 Overall, our goal with this book is to provide a comprehensive guide to AI-driven creative writing that inspires and empowers writers to explore new possibilities and achieve innovative storytelling outcomes.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
