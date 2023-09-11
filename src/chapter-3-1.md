@@ -1,5 +1,4 @@
-Chapter: Using AI for Generating Ideas and Overcoming Writer's Block
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
